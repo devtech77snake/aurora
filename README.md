@@ -13,9 +13,3 @@
 ## ❗️ NOTICE
 
 This repository is no longer maintained. There is an _AMAZING_ community solution to this issue that not only solves the schema merging issue, but also the VSCode intellisense implications of splitting your schema 🚀
-
-🔗 Head over to https://github.com/ajmnz/prisma-import to check it out.
-
----
-
-_P.S.: Shoutout to [Arnau Jiménez](https://github.com/ajmnz) for creating this awesome tool!_
