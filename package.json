@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@prisma/client": "^3.14.0",
-    "@prisma/sdk": "^3.14.0",
+    "@prisma/sdk": "^4.0.0",
     "commander": "^9.2.0",
     "glob": "^8.0.3",
     "path": "^0.12.7"
